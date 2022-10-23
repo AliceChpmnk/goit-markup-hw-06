@@ -682,12 +682,12 @@ address {
         fill: var(--primary-bg);
 }
 
-.footer-subscribe-form {
+.footer-subscribe-form-wrapper {
         padding-top: 12px;
         padding-bottom: 34px;
 }
 
-.footer-subscribe-form-wrapper {
+.footer-subscribe-form {
         display: flex;
 }
 
